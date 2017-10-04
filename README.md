@@ -40,4 +40,12 @@ sample: /afs/psi.ch/user/a/abis_m/slsbl/x02da/e14980/Data20/High_Energy_Setup/SE
 
 10 times 100s of the top part, with diverging strips:
 ```
+flat: /afs/psi.ch/user/a/abis_m/slsbl/x02da/e14980/Data20/High_Energy_Setup/SENTIS_DATA/2017_10_04/171004.162222291178.h5
+sample: /afs/psi.ch/user/a/abis_m/slsbl/x02da/e14980/Data20/High_Energy_Setup/SENTIS_DATA/2017_10_04/171004.160305349361.h5
+```
+
+100s 1cm pmma
+```
+flat: /afs/psi.ch/user/a/abis_m/slsbl/x02da/e14980/Data20/High_Energy_Setup/SENTIS_DATA/2017_10_04/171004.165316463964.h5
+sample: /afs/psi.ch/user/a/abis_m/slsbl/x02da/e14980/Data20/High_Energy_Setup/SENTIS_DATA/2017_10_04/171004.165108486965.h5
 ```
