@@ -31,3 +31,13 @@ sample: /afs/psi.ch/user/a/abis_m/slsbl/x02da/e14980/Data20/High_Energy_Setup/SE
 flat: /afs/psi.ch/user/a/abis_m/slsbl/x02da/e14980/Data20/High_Energy_Setup/SENTIS_DATA/2017_10_04/171004.144941111316.h5
 sample: /afs/psi.ch/user/a/abis_m/slsbl/x02da/e14980/Data20/High_Energy_Setup/SENTIS_DATA/2017_10_04/171004.144732980252.h5
 ```
+
+10 times same measurement to be averaged:
+```
+flat: /afs/psi.ch/user/a/abis_m/slsbl/x02da/e14980/Data20/High_Energy_Setup/SENTIS_DATA/2017_10_04/171004.154218675932.h5
+sample: /afs/psi.ch/user/a/abis_m/slsbl/x02da/e14980/Data20/High_Energy_Setup/SENTIS_DATA/2017_10_04/171004.152301551924.h5
+```
+
+10 times 100s of the top part, with diverging strips:
+```
+```
