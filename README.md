@@ -67,3 +67,9 @@ flat: /afs/psi.ch/user/a/abis_m/slsbl/x02da/e14980/Data20/High_Energy_Setup/SENT
 sample: /afs/psi.ch/user/a/abis_m/slsbl/x02da/e14980/Data20/High_Energy_Setup/SENTIS_DATA/2017_10_04/171005.123557733532.h5
 flat: /afs/psi.ch/user/a/abis_m/slsbl/x02da/e14980/Data20/High_Energy_Setup/SENTIS_DATA/2017_10_04/171005.131223494764.h5
 ```
+
+10s 100kV
+```
+sample: /afs/psi.ch/user/a/abis_m/slsbl/x02da/e14980/Data20/High_Energy_Setup/SENTIS_DATA/2017_10_04/171005.133659278262.h5
+flat: /afs/psi.ch/user/a/abis_m/slsbl/x02da/e14980/Data20/High_Energy_Setup/SENTIS_DATA/2017_10_04/171005.133737242629.h5
+```
