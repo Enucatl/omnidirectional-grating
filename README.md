@@ -49,3 +49,9 @@ sample: /afs/psi.ch/user/a/abis_m/slsbl/x02da/e14980/Data20/High_Energy_Setup/SE
 flat: /afs/psi.ch/user/a/abis_m/slsbl/x02da/e14980/Data20/High_Energy_Setup/SENTIS_DATA/2017_10_04/171004.165316463964.h5
 sample: /afs/psi.ch/user/a/abis_m/slsbl/x02da/e14980/Data20/High_Energy_Setup/SENTIS_DATA/2017_10_04/171004.165108486965.h5
 ```
+
+100s carbon fiber loop
+```
+sample: /afs/psi.ch/user/a/abis_m/slsbl/x02da/e14980/Data20/High_Energy_Setup/SENTIS_DATA/2017_10_04/171004.172655893823.h5
+flat: /afs/psi.ch/user/a/abis_m/slsbl/x02da/e14980/Data20/High_Energy_Setup/SENTIS_DATA/2017_10_04/171004.172903873453.h5
+```
