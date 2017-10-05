@@ -88,4 +88,6 @@ flat: /afs/psi.ch/user/a/abis_m/slsbl/x02da/e14980/Data20/High_Energy_Setup/SENT
 
 10x 30s 60kV
 ```
+sample: /afs/psi.ch/user/a/abis_m/slsbl/x02da/e14980/Data20/High_Energy_Setup/SENTIS_DATA/2017_10_04/171005.145818575866.h5
+flat: /afs/psi.ch/user/a/abis_m/slsbl/x02da/e14980/Data20/High_Energy_Setup/SENTIS_DATA/2017_10_04/171005.150445585382.h5
 ```
